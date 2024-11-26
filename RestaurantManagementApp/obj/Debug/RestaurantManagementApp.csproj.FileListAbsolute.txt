@@ -1,0 +1,10 @@
+E:\TUS\Software Design\Assig\RestaurantManagementApp\bin\Debug\RestaurantManagementApp.exe.config
+E:\TUS\Software Design\Assig\RestaurantManagementApp\bin\Debug\RestaurantManagementApp.exe
+E:\TUS\Software Design\Assig\RestaurantManagementApp\bin\Debug\RestaurantManagementApp.pdb
+E:\TUS\Software Design\Assig\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.AssemblyReference.cache
+E:\TUS\Software Design\Assig\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.MenuForm.resources
+E:\TUS\Software Design\Assig\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.Properties.Resources.resources
+E:\TUS\Software Design\Assig\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.GenerateResource.cache
+E:\TUS\Software Design\Assig\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.csproj.CoreCompileInputs.cache
+E:\TUS\Software Design\Assig\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.exe
+E:\TUS\Software Design\Assig\RestaurantManagementApp\obj\Debug\RestaurantManagementApp.pdb
